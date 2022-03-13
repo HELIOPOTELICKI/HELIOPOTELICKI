@@ -48,7 +48,7 @@
 ### 🖥️ Principais Tecnologias e Ferramentas: 
 <img width="200px" align="right" src="images\bitmoji\Qualidade.png">
 <code><img width="40px" src="images\tecs\python.png" title = "Python 3"/></code>
-<code><img width="70px" src="images\tecs\aws.png" title = "AWS"/></code>
+<code><img width="60px" src="images\tecs\aws.png" title = "AWS"/></code>
 <code><img width="40px" src="images\tecs\html5.png" title = "HTML 5"/></code>
 <code><img width="40px" src="images\tecs\css3.png" title = "CSS 3"/></code>
 <code><img width="40px" src="images\tecs\javascript.png" title = "JAVASCRIPT"/></code>
