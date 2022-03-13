@@ -27,3 +27,9 @@
 
 </br>
 </br>
+
+## Salve, Devs!!
+
+<p align="center">
+  <img src="https://uploaddeimagens.com.br/images/003/769/436/full/dev-background.gif" width="350">
+</p>
