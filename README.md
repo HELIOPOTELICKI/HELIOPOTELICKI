@@ -31,6 +31,6 @@
 ## Salve, Devs!!
 
 <p align="center">
-  <img src="images\dev-background.gif" width="350">
+  <img src="images\dev-background.gif" width="700">
 </p>
 
