@@ -36,6 +36,15 @@
   <img src="images\dev-background.gif" width="700">
 </p>
 
+##
+<p align="center">
+<a href="https://github.com/HELIOPOTELICKI">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HELIOPOTELICKI&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HELIOPOTELICKI&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+
+</p>
+
 ### 🖥️ Principais Tecnologias e Ferramentas: 
 <img width="200px" align="right" src="images\Qualidade.PNG">
 <code><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" title = "Python 3"/></code>
@@ -60,14 +69,3 @@
 </br>
 
 📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/helio_potelicky/) ou pelo [Twitter](https://twitter.com/helio_potelicky) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
-
-</br>
-</br>
-
-##
-<p align="center">
-<a href="https://github.com/HELIOPOTELICKI">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HELIOPOTELICKI&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HELIOPOTELICKI&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
