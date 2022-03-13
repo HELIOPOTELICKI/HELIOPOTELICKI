@@ -68,5 +68,7 @@
 </br>
 </br>
 
-📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/helio_potelicky/) ou pelo [Twitter](https://twitter.com/helio_potelicky) 
-E pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
+<div display="inline-block">
+  <p align="left">📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/helio_potelicky/) ou pelo [Twitter](https://twitter.com/helio_potelicky)</p>
+  <p align="left">E pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)</p>
+</div>
