@@ -8,16 +8,19 @@
  <h1 align="left">Hélio Potelicki</h1>
 
   <a href="https://www.linkedin.com/in/h%C3%A9lio-potelicki">
-    <img width="80px" src="https://uploaddeimagens.com.br/images/003/769/427/full/Linkedin.png" alt="linkedin" style="vertical-align:top;">
+    <img align="left" width="90px" src="https://uploaddeimagens.com.br/images/003/769/427/full/Linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
+
  <a href="https://www.instagram.com/helio_potelicky/">
-    <img align="left" width="80px" src="https://uploaddeimagens.com.br/images/003/769/430/full/Instagram.png" alt="instagram" style="vertical-align:top;">
+    <img align="left" width="90px" src="https://uploaddeimagens.com.br/images/003/769/430/full/Instagram.png" alt="instagram" style="vertical-align:top;">
   </a> 
+
   <a href="https://www.facebook.com/SirPotelicky">
-    <img width="80px" src="https://uploaddeimagens.com.br/images/003/769/432/full/Facebook.png" alt="facebook" style="vertical-align:top;">
+    <img align="left" width="90px" src="https://uploaddeimagens.com.br/images/003/769/432/full/Facebook.png" alt="facebook" style="vertical-align:top;">
   </a>
+
   <a href="https://twitter.com/helio_potelicky">
-    <img align="left" width="80px" src="https://uploaddeimagens.com.br/images/003/769/433/full/Twitter.png" alt="twitter" style="vertical-align:top;">
+    <img align="left" width="90px" src="https://uploaddeimagens.com.br/images/003/769/433/full/Twitter.png" alt="twitter" style="vertical-align:top;">
   </a>
 
 </div>
