@@ -69,6 +69,6 @@
 </br>
 
 <div display="inline-block">
-  <p align="left">📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/helio_potelicky/) ou pelo [Twitter](https://twitter.com/helio_potelicky)</p>
+  <p align="left">📫 Você pode falar comigo pelo <a href="https://www.instagram.com/helio_potelicky/">Instagram</a> ou pelo <a href="https://twitter.com/helio_potelicky">Twitter</a></p>
   <p align="left">E pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)</p>
 </div>
