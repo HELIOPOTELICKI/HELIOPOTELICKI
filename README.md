@@ -3,7 +3,7 @@
 </br>
 </br>
 
-<div dsplay="inline-block">
+<div display="inline-block">
  
  <h1 align="left">Hélio Potelicki</h1>
 
