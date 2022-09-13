@@ -39,8 +39,8 @@
 ##
 <p align="center">
 <a href="https://github.com/HELIOPOTELICKI">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HELIOPOTELICKI&theme=highcontrast&show_icons=true&include_all_commits=true&count_private=true&border_radius=20"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HELIOPOTELICKI&theme=highcontrast&show_icons=true&count_private=true&layout=compact&border_radius=20&hide=html"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HELIOPOTELICKI&theme=highcontrast&include_all_commits=true&count_private=true&border_radius=20"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HELIOPOTELICKI&theme=highcontrast&count_private=true&layout=compact&border_radius=20&hide=html"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HELIOPOTELICKI&theme=highcontrast&ring=db1212&fire=ed9015"/>
 </a>
 
