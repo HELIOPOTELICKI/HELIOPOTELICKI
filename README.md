@@ -2,7 +2,9 @@
 
 </br>
 </br>
-![](https://komarev.com/ghpvc/?username=HELIOPOTELICKI)
+
+<img height="180em" src="https://komarev.com/ghpvc/?username=HELIOPOTELICKI"/>
+
 </br>
 </br>
 
