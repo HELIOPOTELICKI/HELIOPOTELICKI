@@ -69,7 +69,7 @@
 <div display="inline-block">
  <p align="left">👨‍💻 Faço parte da <a href="https://cogmo.com.br/">COGMO Technology</a>;</p>
  <p align="left">📚 Curso Ciência da Computação em: <a href="https://www.furb.br/web/10/portugues">FURB - Universidade Regional de Blumenau</a>;</p>
- <p align="left">☕🎮 Viciado café, adoro games.</p>
+ <p align="left">☕🎮 Viciado em café, adoro games.</p>
 </div>
 
 </br>
