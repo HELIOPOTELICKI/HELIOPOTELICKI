@@ -79,3 +79,8 @@
   <p align="left">📫 Você pode falar comigo pelo <a href="https://www.instagram.com/helio_potelicky/">Instagram</a> ou pelo <a href="https://twitter.com/helio_potelicky">Twitter</a></p>
   <p align="left">E pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)</p>
 </div>
+
+
+<div display="inline-block">
+ <p align="left"><a href="https://github.com/dalton-reis/disciplinaCg/blob/main/Unidade2/Atividade.md">Atividades</a>;</p>
+</div>
