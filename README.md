@@ -3,7 +3,7 @@
 </br>
 </br>
 
-<img align="left" width="200px" style="margin-top:-20px" src="https://komarev.com/ghpvc/?username=HELIOPOTELICKI&color=blueviolet"/>
+<img align="left" width="200px" style="margin-top:-20px" src="https://komarev.com/ghpvc/?username=HELIOPOTELICKI&color=blueviolet&style=for-the-badge"/>
 
 </br>
 </br>
